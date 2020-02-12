@@ -1,0 +1,1 @@
+https://howtodoinjava.com/spring5/hateoas/spring-hateoas-tutorial/
